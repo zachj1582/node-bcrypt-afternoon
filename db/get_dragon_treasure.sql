@@ -1,1 +1,1 @@
-select * from treasures where user_id = $1
+select * from treasures where user_id = $1;
